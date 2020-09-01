@@ -11,7 +11,7 @@
  ### Installation
    Afin de créer la table, insérer les données et créer les fonctions/procédures 
    utilisées dans ce projet:
-   ..* importer le fichier **install_schema.**sql** dans l'outil de gestion de base données
+   ..* importer le fichier **install_schema.sql** dans l'outil de gestion de base données
    
  
  
