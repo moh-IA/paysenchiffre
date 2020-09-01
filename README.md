@@ -24,6 +24,8 @@
    1.Fonction SQL qui retourne le pays (sous format de TABLE) qui correspond au critère passé en paramètre :
    ```sql
       SELECT * FROM get_pay(v_name_pays);
+      Exemple:
+      SELECT * FROM get_pay('Algeria');
      
  
 
