@@ -12,7 +12,9 @@
    Afin de créer la table de données, insérer les données et créer les fonctions/procédures 
    utilisées dans ce projet:
    
-    importer le fichier **install_schema.sql** dans l'outil de gestion de base données.
+    Importez le script install_schema.sql dans l'outil de gestion de base données.
+    Exécutez le script install_schema.sql.
+   Vous pouvez aussi copier-coller l'intégralité du code dans une feuille de calcul SQL et éxecuter le script.
    
    
  
