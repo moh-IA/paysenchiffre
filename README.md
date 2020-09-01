@@ -34,6 +34,7 @@
      CALL new_pays('Clermont-Ferrand');
   ```
   3. Fonction qui retourne les pays qui sont regroupés par 4 tranches (à definir) de densité de population:
+  
      3.1. Fonction qui retourne tous les pays avec leurs tranche de densité:
         ```sql 
            SELECT * FROM get_tranch();
