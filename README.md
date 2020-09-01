@@ -1,2 +1,6 @@
 # Pays en Chiffre 
-   utilisation du sql et pl/pgsql pour manipuler les données des pays 
+ ### Déscription 
+   Utilisation du SQL et PL/pgSQL pour manipuler les données des pays de monde.
+   
+### Prérequis
+
