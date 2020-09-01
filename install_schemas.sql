@@ -2,7 +2,7 @@
 --1 Creation Table COUNTRY
 CREATE TABLE country
 (
-    id_country integer NOT NULL DEFAULT nextval('country_id_country_seq'::regclass),
+    id_country serial primary key ,
     name_country character varying(100) COLLATE pg_catalog."default",
     population numeric(10,0),
     yearly_change numeric(3,2),
@@ -14,10 +14,10 @@ CREATE TABLE country
     med_age numeric(2,0),
     urb_pop numeric(3,0),
     world_share numeric(4,2),
-    insert_date timestamp without time zone,
-    CONSTRAINT country_pkey PRIMARY KEY (id_country)
+    insert_date timestamp without time zone
+    
 	
-)
+);
 
 --2 Insert Data from csv in Table COUNTRY
 
