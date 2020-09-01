@@ -9,8 +9,9 @@
  2. Outil de gestion de base de données PostgreSQL (**PgAdmin**)
    
  ### Installation
-    Afin de créer la table, insérer les données et créer les fonctions et les procédures utilisées 
-    il faut importer le fichier **install**_**schema**.**sql** dans l'outil de gestion de base données
+   Afin de créer la table, insérer les données et créer les fonctions/procédures 
+   utilisées dans ce projet:
+   ..* importer le fichier **install_schema.**sql** dans l'outil de gestion de base données
    
  
  
