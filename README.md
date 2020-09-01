@@ -35,11 +35,11 @@
   ```
   3. Fonction qui retourne les pays qui sont regroupés par 4 tranches (à definir) de densité de population:
   
-     3.1. Fonction qui retourne tous les pays avec leurs tranche de densité:
+     3.1. Fonction qui retourne tous les pays avec leurs tranche de densité :
         ```sql 
            SELECT * FROM get_tranch();
         ```
-     3.2.Fonction qui retourne la densité de population d'un pays passé en paramètre :
+     3.2. Fonction qui retourne la densité de population d'un pays passé en paramètre :
        ```sql
           SELECT * FROM get_tranch('v_name_pays');
           Exemple:
