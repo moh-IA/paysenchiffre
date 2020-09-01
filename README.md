@@ -1,6 +1,7 @@
 # Pays en Chiffre 
  ### Description 
-   Utilisation du SQL et PL/pgSQL pour manipuler les données des pays du monde.
+   Le but de ce projet est de manipuler les données des pays en utilisant
+   le language PL/pgSQL(*langauge de programmation procédurale supporté par PostgreSQL SGBDR *). 
    
    
  ### Prérequis
@@ -8,6 +9,9 @@
  2. Outil de gestion de base de données PostgreSQL (**PgAdmin**)
    
  ### Installation
+   
+ 
+ 
  ### Démmarage
 
 
